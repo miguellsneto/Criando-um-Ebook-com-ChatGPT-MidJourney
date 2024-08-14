@@ -24,9 +24,9 @@ ChatGPT：
 
 SeaArt：
 
-|  Ação    | prompt                                                                                              |
+|   Ação   | prompt                                                                                              |
 | :------: | --------------------------------------------------------------------------------------------------- |
-| título   | A jedi in meditation pose, with your blue lightsaber floating, pixel art style                      |
+|  título  | A jedi in meditation pose, with your blue lightsaber floating, pixel art style                      |
 
 ## ✨ Features
 
